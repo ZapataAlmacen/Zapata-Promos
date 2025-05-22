@@ -19,4 +19,4 @@ Este proyecto está publicado en GitHub Pages:
 
 ## Autor
 
-Desarrollado por [Tu Nombre].
+Desarrollado por Imnaol Alonso Calixtro Vazquez.
